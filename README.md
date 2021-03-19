@@ -27,7 +27,9 @@ The src folder has the main typescript codes.
 The code is divided into mainly 3 parts - 
 
 *Store(containing actions and reducers)
+
 *App
+
 *Components
 
 <b>STORE - </b>
