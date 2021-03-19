@@ -20,6 +20,7 @@ Created components and dispatched actions.
 
 The src folder has the main typescript codes.
 The code is divided into mainly 3 parts - 
+
 1.Store (contains actions and reducers)
 2.Components
 3.App
@@ -91,7 +92,7 @@ UNSET_TASK_TO_EDIT - It will set taskToEdit to null
 
 UPDATE_TASK - It will update selected task in selected list and update the lists in local storage
 
-notificationReducers.ts - It has one case, SET_NOTIFICATION and this one will set/update 
+<b>notificationReducers.ts </b>- It has one case, SET_NOTIFICATION and this one will set/update 
  the message and the type of the notification state.
 
 <b>APP - </b>
@@ -99,7 +100,7 @@ notificationReducers.ts - It has one case, SET_NOTIFICATION and this one will se
 <b>App.tsx  -</b> Conventionally, App.js acts as the highest level component in the React application structure.Under the same folder, index.tsx file is present, which holds the application’s configuration and incorporates dependencies such as React-Router and React-Redux. 
 
 
-COMPONENTS - 
+<b>COMPONENTS - </b>
 
 <b>Header.ts -</b>
  It has some properties to be able to create interface HeaderProps. It has a title which is a string and a subtitle which is also a string.
