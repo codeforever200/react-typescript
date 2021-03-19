@@ -34,9 +34,11 @@ The code is divided into mainly 3 parts -
 
 <b>STORE - </b>
 
-Store: A store is a state container which holds the application’s state. Redux can have only a single store in an application.
-Action: When an event happens inside a React component it is called an action and via a Redux function it is called a dispatch. An action returns an object which always contains  an action type.
-Reduce: Redux calls all the reducers which then use the action type to decide
+<b>Store:</b> A store is a state container which holds the application’s state. Redux can have only a single store in an application.
+
+<b>Actions:</b> When an event happens inside a React component it is called an action and via a Redux function it is called a dispatch. An action returns an object which always contains  an action type.
+
+<b>Reducers:</b> Redux calls all the reducers which then use the action type to decide
  which reducer method should be run. The reducer’s job is to update the Redux store for this action type, using any extra data that the action may have included.
 
 
