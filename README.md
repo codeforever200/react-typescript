@@ -1,5 +1,5 @@
 # react-typescript
-TODO LIST APP CODE EXPLANATION
+<b> TODO LIST APP CODE EXPLANATION </b>
 
 
 The App Functionality - 
