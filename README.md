@@ -16,7 +16,7 @@ Created types.
 Added some actions to our store and managed state.
 Created components and dispatched actions.
 
-<b>The main code - <b>
+<b>The main code - </b>
 
 The src folder has the main typescript codes.
 The code is divided into mainly 3 parts - 
