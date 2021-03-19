@@ -10,6 +10,7 @@ This app allows users to create a list of topics. Under each of these topics/lis
 <b>Project Overview - </b>
 
 Created project using create-react-app and installed required dependencies.
+
 Deleted unnecessary files and code.
 Created store with redux and made it available in the app.
 Created types.
