@@ -26,9 +26,9 @@ This app allows users to create a list of topics. Under each of these topics/lis
 The src folder has the main typescript codes.
 The code is divided into mainly 3 parts - 
 
-1.Store (contains actions and reducers)
-2.App
-3.Components
+*Store(containing actions and reducers)
+*App
+*Components
 
 <b>STORE - </b>
 
