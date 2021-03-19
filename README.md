@@ -9,13 +9,17 @@ This app allows users to create a list of topics. Under each of these topics/lis
 
 <b>Project Overview - </b>
 
-Created project using create-react-app and installed required dependencies.
+1.Created project using create-react-app and installed required dependencies.
 
-Deleted unnecessary files and code.
-Created store with redux and made it available in the app.
-Created types.
-Added some actions to our store and managed state.
-Created components and dispatched actions.
+2.Deleted unnecessary files and code.
+
+3.Created store with redux and made it available in the app.
+
+4.Created types.
+
+5.Added some actions to our store and managed state.
+
+6.Created components and dispatched actions.
 
 <b>The main code - </b>
 
@@ -23,8 +27,8 @@ The src folder has the main typescript codes.
 The code is divided into mainly 3 parts - 
 
 1.Store (contains actions and reducers)
-2.Components 
-3.App
+2.App
+3.Components
 
 <b>STORE - </b>
 
